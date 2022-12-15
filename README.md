@@ -10,7 +10,7 @@ Admin port : 8080
 cyworld 폴더 > admin 폴더 > git link paste
 
 **
-Working directory : $MODULE_WORKING_DIR$
+Working directory : " $MODULE_WORKING_DIR$ "
 
 shorten command line : JAR manifest
 
